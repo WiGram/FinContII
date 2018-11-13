@@ -1,0 +1,9 @@
+﻿  rangeBlackScholes.cpp
+     Creating library C:\Users\dfj.SVEDAN\Documents\Cpp\finkont2\Release\finkont2.lib and object C:\Users\dfj.SVEDAN\Documents\Cpp\finkont2\Release\finkont2.exp
+  Generating code
+  0 of 35 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  finkont2.vcxproj -> C:\Users\dfj.SVEDAN\Documents\Cpp\finkont2\Release\finkont2.xll
+  finkont2.vcxproj -> C:\Users\dfj.SVEDAN\Documents\Cpp\finkont2\Release\finkont2.pdb (Full PDB)
